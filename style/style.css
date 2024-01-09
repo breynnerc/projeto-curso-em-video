@@ -59,6 +59,8 @@ header > p{
     text-align: center;
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
 }
 
 nav{
